@@ -42,14 +42,17 @@
 
 		<div class="container">
 			<h1>Having a bad day today&#33;</h1>
-			<ul class="nav nav-pills pull-right">
+			<!------adding a nav tag will help with organization. 
+			Also a navbar with a fixed position helps with user friendly navigation-------->
+			<nav class="navbar navbar-default navbar-fixed-top">
+				<ul class= "pull-right">
 
 
 
 
 				
-			</ul>
-
+				</ul>
+			</nav>
 
 
 
